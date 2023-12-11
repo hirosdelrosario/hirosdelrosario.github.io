@@ -1,6 +1,6 @@
 # hirosdelrosario.github.io
 ## Kierthjohn Dale Zonio Alimuin
-![WarThunder](![Uploading image.png…]()
+![WarThunder](![image](https://github.com/hirosdelrosario/hirosdelrosario.github.io/assets/122034987/1cd7e3cf-9494-4450-bf5e-5bfecc392251)
 ")
 ### War Thunder
 <p align="center">
@@ -14,3 +14,4 @@
   <li>A variety of aircraft with detailed flight models, exteriors, and interiors.</li>
   <li>Astonishing graphics, authentic sounds, and beautiful music.</li>
 </ul>
+
