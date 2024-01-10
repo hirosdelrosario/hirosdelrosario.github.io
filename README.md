@@ -16,7 +16,7 @@ Jesus revealed His pain at the neglect of the poor, His sorrow at their ignoranc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jt7G1x7A1T8?si=XNpPXVj7ovaN8n8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-*Clip: History of the Lady of Penafrancia*
+*Clip: History of Teresa of Calcutta*
 
 ### Schedule of Masses
 
